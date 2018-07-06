@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "379446596119",
+    "firebase_url": "https://notas-894c5.firebaseio.com",
+    "project_id": "notas-894c5",
+    "storage_bucket": "notas-894c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379446596119:android:a0c550423c53be66",
+        "android_client_info": {
+          "package_name": "br.com.fiuza.notas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379446596119-2j84q55kvs9t5t5ju9pcms00hd0irnkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.fiuza.notas",
+            "certificate_hash": "aa1cda59c044969f3cd1d43ba7318ccaad3f178a"
+          }
+        },
+        {
+          "client_id": "379446596119-mf0g8eguir8bcep19nr30h3sg5b8hs1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAvRDoivf6S3RjFR0y_sbK-aSg9BAr0SM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379446596119-mf0g8eguir8bcep19nr30h3sg5b8hs1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
